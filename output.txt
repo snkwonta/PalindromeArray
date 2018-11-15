@@ -1,0 +1,6 @@
+The string noon is a palindrome.
+The string amanaplanacanalpanama is a palindrome.
+The string alice isn't a palindrome.
+The string madam is a palindrome.
+The string peterparker isn't a palindrome.
+The string neveroddoreven is a palindrome.
